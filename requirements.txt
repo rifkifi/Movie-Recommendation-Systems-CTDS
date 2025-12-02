@@ -5,3 +5,8 @@ scikit-learn
 scipy
 networkx
 matplotlib
+mlxtend
+nltk
+scikit-surprise
+seaborn
+wordcloud
